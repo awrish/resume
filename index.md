@@ -1,42 +1,10 @@
 
 
 ### About
+    Third-year Computer Science student at The University of Georgia.
+    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awrish/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-### Certifications
-
-- AWS Certified Cloud Practicioner
-
-### Personal Projects (Move this higher up later when finalizing website)
+### Personal Projects
 
 **Minesweeper Game**
 
@@ -46,4 +14,16 @@ and revealing all mines on board. [Link to code](https://github.com/awrish/Perso
 
 **iTunes Album Image Loader**
 
-Uses the iTunes API to load images of album covers in a specific genre sepecified by the user. Defaults to indie genre upon opening, but can be changed by the user. Also features pause/play button which will start or stop the rotation of other album covers that were found beyond the ones that are intially displayed.
+Uses the iTunes API to load images of album covers in a specific genre sepecified by the user. Defaults to indie genre upon opening, but can be changed by the user. Also features pause/play button which will start or stop the rotation of other album covers that were found beyond the ones that are intially displayed. [Link to code](https://github.com/awrish/PersonalProjects/blob/main/ItunesAPIApp/src/main/java/cs1302/gallery/GalleryApp.java)
+
+
+### Certifications
+
+- AWS Certified Cloud Practicioner
+
+
+### Contact
+
+-- Linkedin: www.linkedin.com/in/awrish-khan-16b0581b7
+
+-- Email: awrishkhan@gmail.com
