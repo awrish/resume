@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: Awrish Khan
 description: My personal website created in order to better communicate and display personal projects, cetifications, etc.
-banner: /pictures/mountains.jpg
+background-image: url('/pictures/mountains.jpg')
