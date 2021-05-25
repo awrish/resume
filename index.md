@@ -46,5 +46,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Based in the CLI interface, user can format the board before starting based on how many rows, columns,
 and mines they would like to have in their game. Has set up commands for help, revealing spaces, exiting,
-and revealing all mines on board. [Link to code] (https://github.com/awrish/PersonalProjects/tree/main/MineSweeper)
+and revealing all mines on board. [Link to code](https://github.com/awrish/PersonalProjects/tree/main/MineSweeper)
 
