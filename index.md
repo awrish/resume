@@ -40,9 +40,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 - AWS Certified Cloud Practicioner
 
-## Personal Projects (Move this higher up later when finalizing website)
+### Personal Projects (Move this higher up later when finalizing website)
 
-1. Minesweeper Game
-   Based in the CLI interface, user can format the board before starting based on how many rows, columns,
-   and mines they would like to have in their game. Has set up commands for help, revealing spaces, exiting,
-   and revealing all mines on board. 
+**Minesweeper Game**
+
+Based in the CLI interface, user can format the board before starting based on how many rows, columns,
+and mines they would like to have in their game. Has set up commands for help, revealing spaces, exiting,
+and revealing all mines on board. 
