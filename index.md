@@ -1,9 +1,6 @@
-
-
 ### About
     Third-year Computer Science student at The University of Georgia.
     
-
 ### Personal Projects
 
 **Minesweeper Game**
